@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-h3bt68.kujang138.shop/sitemap.xml
